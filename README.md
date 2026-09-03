@@ -38,3 +38,18 @@ Voici une sélection de mes réalisations graphiques.
 <p align="center">
   <img src="affiches/affiche_16.png" width="30%">
 </p>
+
+
+## 🛠️ Outils
+
+- Adobe Photoshop
+- Canva
+- Photopea
+- Adobe Premiere Pro
+- DaVinci Resolve
+
+## 📩 Contact
+- 781002094
+- ismailadiallo1286@gmail.com
+
+Vous pouvez me contacter pour toute collaboration ou demande d'information.
